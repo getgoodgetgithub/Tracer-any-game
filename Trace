@@ -1,7 +1,7 @@
 local MouseLock = {
     Settings = {
         Enabled = false,
-        Key = 'q',
+        Key = 'Tab',
         Prediction = 0.1211,
         AimPart = 'HumanoidRootPart'
     }
