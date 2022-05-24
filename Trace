@@ -1,7 +1,7 @@
 local MouseLock = {
     Settings = {
         Enabled = false,
-        Key = 'Left Shift',
+        Key = 'F',
         Prediction = 0.1211,
         AimPart = 'HumanoidRootPart'
     }
