@@ -1,7 +1,7 @@
 local MouseLock = {
     Settings = {
         Enabled = false,
-        Key = 'f',
+        Key = 'q',
         Prediction = 0.1211,
         AimPart = 'HumanoidRootPart'
     }
